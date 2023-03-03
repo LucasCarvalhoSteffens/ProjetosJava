@@ -30,5 +30,7 @@ public class Main {
         }
 
         System.out.println("Opção selecionada: " + tipoPagamento);
+
+        System.out.println("Teste GIT");
     }
 }
